@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\bin\Debug\net8.0\Advance01.exe
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\bin\Debug\net8.0\Advance01.deps.json
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\bin\Debug\net8.0\Advance01.runtimeconfig.json
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\bin\Debug\net8.0\Advance01.dll
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\bin\Debug\net8.0\Advance01.pdb
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\obj\Debug\net8.0\Advance01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\obj\Debug\net8.0\Advance01.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\obj\Debug\net8.0\Advance01.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\obj\Debug\net8.0\Advance01.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\obj\Debug\net8.0\Advance01.sourcelink.json
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\obj\Debug\net8.0\Advance01.dll
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\obj\Debug\net8.0\refint\Advance01.dll
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\obj\Debug\net8.0\Advance01.pdb
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\obj\Debug\net8.0\Advance01.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Advance01\Advance01\Advance01\obj\Debug\net8.0\ref\Advance01.dll
